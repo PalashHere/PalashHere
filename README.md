@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PalashHere
+- 👋 Hi, I am Palash Sharma
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently enrolled in Business Insights and Analytics at Humber College in Toronto
 - 💞️ I’m looking to collaborate on various project 
