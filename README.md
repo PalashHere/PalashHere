@@ -30,8 +30,8 @@
       <sub>NJR Energy · PepsiCo Global</sub>
     </td>
     <td align="center" width="220">
-      <img src="<img width="1548" height="297" alt="LTIM NS_BIG" src="https://github.com/user-attachments/assets/a2cf8129-59e1-49bc-b2db-3d9bad02802e" />
-" height="50" alt="LTIMindtree"/><br/>
+      <img src="<img width="1548" height="297" alt="LTIM NS_BIG" />
+height="50" alt="LTIMindtree"/><br/>
       <b>LTIMindtree</b><br/>
       <sub>C1 Engineer · 2021</sub><br/>
       <sub>Data Engineering & QA</sub>
