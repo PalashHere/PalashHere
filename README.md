@@ -24,13 +24,13 @@
 <table>
   <tr>
     <td align="center" width="220">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/PricewaterhouseCoopers_Logo.svg/400px-PricewaterhouseCoopers_Logo.svg.png" height="50" alt="PwC"/><br/>
+      <img src="https://www.finops.org/members/pwc/" height="50" alt="PwC"/><br/>
       <b>PricewaterhouseCoopers</b><br/>
       <sub>Data Associate · 2021–2023</sub><br/>
       <sub>NJR Energy · PepsiCo Global</sub>
     </td>
     <td align="center" width="220">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/LTIMindtree_Logo.svg/320px-LTIMindtree_Logo.svg.png" height="50" alt="LTIMindtree"/><br/>
+      <img src="https://www.coupa.com/partners/ltimindtree/" height="50" alt="LTIMindtree"/><br/>
       <b>LTIMindtree</b><br/>
       <sub>C1 Engineer · 2021</sub><br/>
       <sub>Data Engineering & QA</sub>
